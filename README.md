@@ -7,5 +7,5 @@
 | Week                    | Contents                 |
 | ----------------------- | ------------------------ |
 | [Project 1](/Project_1) | Linux MyShell            |
-| [Projct 2](/Project_2)  | Concurrent Stock Server  |
+| [Project 2](/Project_2)  | Concurrent Stock Server  |
 | [Project 3](/Project_3) | Dynamic Memory Allocator |
